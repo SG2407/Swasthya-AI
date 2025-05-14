@@ -1,0 +1,13 @@
+streamlit
+bcrypt
+python-dotenv
+supabase
+langchain-openai
+langchain-core
+langchain-community
+langchain
+ollama
+python-dotenv
+SpeechRecognition
+PyAudio
+numpy
